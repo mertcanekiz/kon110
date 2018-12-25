@@ -5,5 +5,5 @@ Practices and quizzes from KON110E C Programming Course
 - [x] Quiz 2
 - [x] Quiz 3
 - [x] Midterm
-- [ ] Project
+- [x] Project
 - [x] Final
