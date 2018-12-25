@@ -1,5 +1,5 @@
 # kon110
-Practices and quizzes from KON110E C Programming Course
+Practice, quiz, midterm and final questions from KON110E C Programming Course
 
 - [ ] Quiz 1
 - [x] Quiz 2
